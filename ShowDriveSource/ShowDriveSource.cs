@@ -16,8 +16,8 @@ namespace ShowDriveSource
     {
         public override string Name => "ShowDriveSource";
         public override string Author => "art0007i";
-        public override string Version => "1.1.0";
-        public override string Link => "https://github.com/art0007i/NeosTemplate/";
+        public override string Version => "1.1.1";
+        public override string Link => "https://github.com/art0007i/ShowDriveSource/";
         public override void OnEngineInit()
         {
             Harmony harmony = new Harmony("me.art0007i.ShowDriveSource");
