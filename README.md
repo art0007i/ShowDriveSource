@@ -2,7 +2,7 @@
 
 A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that allows you to see what is driving a field by simply clicking on it.
 
-This mod implements the feature from [2059](https://github.com/Neos-Metaverse/NeosPublic/issues/2059)
+This mod implements the feature from [#2059](https://github.com/Neos-Metaverse/NeosPublic/issues/2059)
 
 ## Installation
 1. Install [NeosModLoader](https://github.com/zkxs/NeosModLoader).
