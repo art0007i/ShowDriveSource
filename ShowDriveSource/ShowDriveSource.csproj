@@ -7,6 +7,7 @@
     <AssemblyTitle>ShowDriveSource</AssemblyTitle>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <TargetFramework>net472</TargetFramework>
+	<LangVersion>latest</LangVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
     <GamePath>$(MSBuildThisFileDirectory)Resonite</GamePath>
