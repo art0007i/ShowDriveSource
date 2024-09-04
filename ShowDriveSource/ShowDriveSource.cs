@@ -10,7 +10,7 @@ public class ShowDriveSource : ResoniteMod
 {
     public override string Name => "ShowDriveSource";
     public override string Author => "art0007i";
-    public override string Version => "2.0.1";
+    public override string Version => "2.0.2";
     public override string Link => "https://github.com/art0007i/ShowDriveSource/";
 
     [AutoRegisterConfigKey]
